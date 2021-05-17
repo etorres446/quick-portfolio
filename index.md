@@ -16,7 +16,8 @@
 <img src="images/Earth day poster.jpg?raw=true"/>
 
 ---
-
+[Project 4 - Surrealism Project](http://example.com/)
+<img src="images/surreal.jpeg?raw=true"/>
 
 ---
 
